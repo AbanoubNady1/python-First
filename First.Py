@@ -306,3 +306,5 @@ print("My Rank is: %.2f" % rank)
 myLongString = "Hello Welcome Peoples Hello Hello"
 print ("Messege is %.5s" % myLongString)
 print ("Messege is %s" % myLongString)
+#Hello
+
